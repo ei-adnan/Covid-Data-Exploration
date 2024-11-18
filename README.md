@@ -15,7 +15,17 @@ The repository includes the following key files:
 
 ---
 
+## Visual Representation
+
+Explore the interactive Tableau dashboard created as part of this project:
+
+[COVID-19 Data Exploration Dashboard](https://public.tableau.com/views/CovidDataExploration_17319420817670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- The Tableau dashboard provides an intuitive visual representation of key insights from the COVID-19 datasets.
+- It also allows users to interact with the data, explore trends, and gain a deeper understanding of the global impact of the pandemic.
 ## Data Exploration Overview
+
+---
 
 The **COVID-Data-Exploration.sql** file contains a series of SQL queries developed to uncover insights about the COVID-19 pandemic. These queries were executed in Microsoft SQL Server Management Studio and helped generate insights that serve as a foundation for data visualizations.
 
@@ -35,19 +45,6 @@ The **COVID-Data-Exploration.sql** file contains a series of SQL queries develop
 4. **Global and Continental Trends**:
    - Analyzed data to determine the severity of the pandemic across different regions.
    - Compared total deaths and deaths per population by continent to provide a global perspective.
-
----
-
----
-
-## Visual Representation
-
-Explore the interactive Tableau dashboard created as part of this project:
-
-[COVID-19 Data Exploration Dashboard](https://public.tableau.com/views/CovidDataExploration_17319420817670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-- The Tableau dashboard provides an intuitive visual representation of key insights from the COVID-19 datasets.
-- It also allows users to interact with the data, explore trends, and gain a deeper understanding of the global impact of the pandemic.
 
 ---
 
