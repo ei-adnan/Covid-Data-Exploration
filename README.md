@@ -1,6 +1,6 @@
 # Covid-Data-Exploration
 
-The **Covid Data Exploration Project** is a data analysis initiative focused on exploring and interpreting global trends related to the COVID-19 pandemic. This project involves working with two datasets, **CovidDeaths.xlsx** and **CovidVaccinations.xlsx**, which were pre-processed in Microsoft Excel and subsequently loaded into a Microsoft SQL Server database for comprehensive analysis and visualization.
+The **Covid Data Exploration** is a data analysis project focusing on exploring and interpreting global trends related to the COVID-19 pandemic. This project involves working with two datasets, **CovidDeaths.xlsx** and **CovidVaccinations.xlsx**, which were pre-processed in Microsoft Excel and subsequently loaded into a Microsoft SQL Server database for comprehensive analysis and visualization.
 
 ---
 
